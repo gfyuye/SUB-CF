@@ -5,7 +5,7 @@ compatibility_date = "2025-01-01"
 SUBAPI = "SUBAPI.fxxk.dedyn.io"
 SUBCONFIG = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"
 STRICT_SELF_NODES = "1"
-SUB_HOST_ALLOW = "raw.githubusercontent.com,githubusercontent.com",
+SUB_HOST_ALLOW = "raw.githubusercontent.com,githubusercontent.com"
 "TOKEN": "auto"
 [placement]
 region = "aws:ap-northeast-1"  # 东京
