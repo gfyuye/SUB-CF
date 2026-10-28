@@ -7,5 +7,7 @@ SUBCONFIG = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/A
 STRICT_SELF_NODES = "1"
 SUB_HOST_ALLOW = "raw.githubusercontent.com,githubusercontent.com"
 TOKEN = "auto"
+LINK = ""
+LINKSUB = ""
 [placement]
 region = "aws:ap-northeast-1"  # 东京
